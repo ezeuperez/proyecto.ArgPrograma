@@ -1,0 +1,91 @@
+header {
+    display: inline-block;
+    display: flex;
+    justify-content: space-between;
+   
+    align-items: center;
+    
+    border-radius: 10px;
+    background-color: rgb(15, 15, 15);
+    
+   }
+   h1{
+    color: white;
+    font-family: 'Satisfy', cursive;
+    font-size: 50px;
+    margin-right: 200px;
+
+   }
+
+   img{
+    width: 95px;
+    height: 115px;
+    border-radius: 50%;
+   margin-left: 90px;
+ 
+   }
+
+div{
+   display: flex;
+   
+  
+}
+
+
+   .cajaDeInfo{
+   
+background-color: rgb(6, 145, 145);
+  display: inline-block;
+  
+
+
+
+   }
+
+   a:visited{
+    text-decoration: black;
+    color: black;
+   }
+
+   ul{
+    
+    font-size: 20px;
+    padding: 0;
+    margin-left: 25px;
+   
+   }
+   samp{
+    font-size: 18px;
+    font-family:'Times New Roman', Times, serif;
+    font-weight:100
+   }
+   li{
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+   }
+
+  section ul{
+    list-style-type: none;
+  }
+.cajaDeExp{
+    display:block;
+    width: 70%;
+margin-left: 25px;
+}
+h2{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 25px;
+    
+}
+h3{
+    font-weight:100
+}
+.hidden{
+    display: none;
+}
+span{
+    font-size: 15px;
+    color: rgb(6, 145, 145);
+}
+    
